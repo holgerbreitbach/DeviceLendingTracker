@@ -1,0 +1,36 @@
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+
+/* Document
+   ========================================================================== */
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
+.border-indigo-400 {
+    --border-opacity: 1;
+    border-color: #871d33 !important;
+    border-color: rgba(141, 162, 251, var(--border-opacity));
+}
+
+.bg-red-500 {
+    --border-opacity: 1;
+    border-color: #871d33 !important;
+    background-color: #871d33;
+    border-color: rgba(141, 162, 251, var(--border-opacity));
+}
+
+.bg-red-700 {
+    --border-opacity: 1;
+    border-color: #871d33 !important;
+    background-color: #871d33;
+    border-color: rgba(141, 162, 251, var(--border-opacity));
+}
+
+.svg-icon {
+    font-size: 16px;
+    color: #000;
+    line-height: 30px;
+    display: inline-block;
+}
